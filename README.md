@@ -10,7 +10,7 @@ Feel free to use the code and I have also deployed the web app through the Fireb
 demo:
 https://my-digital-business-card.web.app/
 
-## Have fun :)
+Have fun :)
 
 ### Websites which help me to build this react project
 https://www.youtube.com/watch?v=bMknfKXIFA8&ab_channel=freeCodeCamp.org
