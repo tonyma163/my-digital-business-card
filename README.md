@@ -12,7 +12,7 @@ https://my-digital-business-card.web.app/
 
 Have fun :)
 
-### Websites which help me to build this react project
+## Websites which help me to build this react project
 https://www.youtube.com/watch?v=bMknfKXIFA8&ab_channel=freeCodeCamp.org
 https://stackoverflow.com/questions/5773174/html-button-to-send-email
 https://www.w3schools.com/html/html_formatting.asp
