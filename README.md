@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# My Digital Business Card Web App
 
 ## Intro
 The project idea from the Scrimba youtube video.
